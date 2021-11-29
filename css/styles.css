@@ -26,6 +26,11 @@ h3 {
   font-size: 2.0rem;
   margin-top: 2px;
   margin-bottom: 2px;
+  color: #ff0217;
+}
+
+.hrefColor {
+  color: #cc02ff;
 }
 
 .hZeroMargins {
