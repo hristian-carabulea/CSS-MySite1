@@ -52,15 +52,23 @@ img {
 }
 
 .img1 {
+  width: 65%;
+}
+
+.img2 {
   width: 50%;
 }
 
-.img2{
+.img3{
   width: 25%;
 }
 
-.img3 {
-  width: 10%;
+.img4 {
+  width: 20%;
+}
+
+.img5 {
+  width: 5%;
 }
 
 .imgRound {
