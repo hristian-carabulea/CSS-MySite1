@@ -46,6 +46,23 @@ p {
   /* padding: 20px; */
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
+.img1 {
+  width: 50%;
+}
+
+.img2{
+  width: 25%;
+}
+
+.img3 {
+  width: 10%;
+}
+
 .imgRound {
   border-radius: 50%;
 }
