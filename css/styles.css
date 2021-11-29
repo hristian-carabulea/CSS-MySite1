@@ -91,6 +91,9 @@ img {
   border-radius: 50%;
 }
 
+.imageMarginTop {
+  margin-top: 1.0rem;
+}
 .top-container {
   position: relative;
   padding-top: 100px;
