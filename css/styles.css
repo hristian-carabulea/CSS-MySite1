@@ -11,14 +11,19 @@ h1 {
   font-size: 4.0rem; /* root ignore any other font settings */
   margin: 2.0rem auto 0 auto;
   font-family: 'Sacramento', cursive;
-  /*margin-left: 0px;
-   padding: 20px; */
+  color: #07a1a1;
+  /*
+  line-height: 4;
+  margin-left: 0px;
+  padding: 20px; 
+  */
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 3.0rem;
-
+  font-weight: normal;
+  color: #066969;
 }
 
 h3 {
@@ -59,11 +64,17 @@ h3 {
 }
 
 /* */
+
 p {
   margin-left: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
   /* padding: 20px; */
+  font-size: 1.2rem;
+}
+
+.pSmaller {
+  font-size: 1rem;
 }
 
 img {
